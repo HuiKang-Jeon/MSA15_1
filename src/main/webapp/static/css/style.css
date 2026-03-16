@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+section {
+	
+	margin: 100px auto;
+	margin-top: 80px;
+	min-height: 300px;
+}
+
+.text-title {
+	font-size: 32px;
+}
+
+body {
+	display: column;
+}
+
+placeholder {
+	color: red;
+}
+
+.rating-group .btn-check:checked+.rating-btn {
+	background-color: #7c5cff;
+	border-color: #7c5cff;
+	color: white;
+}
+
+.rating-btn {
+	min-width: 40px;
+}
