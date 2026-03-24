@@ -76,11 +76,14 @@
   - 영화 포스터 · 제목 · 개봉 연도 표시 및 상세 페이지 연결
 
 <details>
-<summary><b>🎥 메인 페이지 시연 영상 보기</b></summary>
+<summary><b>🎥 메인 페이지 보기</b></summary>
 
 <br>
 
-<!-- 시연 영상 링크를 여기에 추가하세요 -->
+<img width="1894" height="953" alt="1 메인페이지" src="https://github.com/user-attachments/assets/b068c451-a3c2-456f-8780-d314f908e371" />
+
+<img width="1896" height="953" alt="2 메인페이지 하단 영화목록 슬라이드" src="https://github.com/user-attachments/assets/5b6cbaa4-e333-426f-a259-3ee2d6a2d394" />
+
 
 </details>
 
@@ -93,14 +96,7 @@
   - `DetailServlet`에서 `keyword` 파라미터를 받아 `movieService.searchBy(keyword)` 처리
   - 검색 결과를 상세 페이지와 연결하여 자연스러운 탐색 흐름 구성
 
-<details>
-<summary><b>🎥 검색 기능 시연 영상 보기</b></summary>
 
-<br>
-
-<!-- 시연 영상 링크를 여기에 추가하세요 -->
-
-</details>
 
 ---
 
@@ -116,11 +112,12 @@
   - 리뷰 작성 · 수정 · 삭제 기능과 연결
 
 <details>
-<summary><b>🎥 영화 상세 페이지 시연 영상 보기</b></summary>
+<summary><b>🎥 영화 상세 페이지 보기</b></summary>
 
 <br>
 
-<!-- 시연 영상 링크를 여기에 추가하세요 -->
+<img width="1896" height="952" alt="4 상세페이지" src="https://github.com/user-attachments/assets/fd4e5970-0f68-4c20-b199-4354d1fc9a55" />
+
 
 </details>
 
@@ -142,17 +139,20 @@
   - 우승 영화 결과 화면 표시
 
 <details>
-<summary><b>🎥 토너먼트 시연 영상 보기</b></summary>
+<summary><b>🎥 토너먼트 페이지 보기</b></summary>
 
 <br>
 
-<!-- 시연 영상 링크를 여기에 추가하세요 -->
+<img width="1913" height="879" alt="5 토너먼트페이지" src="https://github.com/user-attachments/assets/463f59c6-7992-4f8f-82b7-06c0861aa5c3" />
+<img width="1912" height="956" alt="6 토너먼트 라운드중" src="https://github.com/user-attachments/assets/c3896569-3693-4f37-8dd0-483031ad675d" />
+<img width="1896" height="952" alt="7 토너먼트 우승 영화 상세페이지" src="https://github.com/user-attachments/assets/5f431447-479d-4e20-b2f9-c7e3d3e48480" />
+
 
 </details>
 
 ---
 
-### ✍️ 팀원 B — 리뷰 시스템
+### ✍️ 김경화 — 리뷰 시스템
 
 #### 💬 리뷰 페이지
 
@@ -162,7 +162,7 @@
 
 ---
 
-### 🔐 팀원 C — 인증 · 마이페이지
+### 🔐 박희진 — 인증 · 마이페이지
 
 #### 🔑 로그인 / 회원가입 페이지
 
@@ -179,7 +179,7 @@
 
 ---
 
-### 🛠 팀원 D — 관리자 시스템
+### 🛠 나승현 — 관리자 시스템
 
 #### 🎛 관리자 페이지
 
