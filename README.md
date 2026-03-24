@@ -20,7 +20,7 @@
 | 👥 팀 구성 | 4인 팀 프로젝트 |
 | 🔗 GitHub | [MSA15_1 Repository](https://github.com/MoaisMoa/MSA15_1-.git) |
 | 💡 주요 기능 | 영화 목록 · 검색, 영화 상세 · 리뷰, 최애 영화 토너먼트, 회원 관리, 관리자 페이지 |
-| 📊 PPT 링크 | (https://docs.google.com/presentation/d/1Y5Kkb03I9_-gr9pW9zMr2519DH7mtc0N/edit?slide=id.p1#slide=id.p1) |
+| 📊 PPT 링크 | https://docs.google.com/presentation/d/1K3n-e4S-NYc2_hfviU8CmYulb2HS2Oow/edit?slide=id.p1#slide=id.p1 |
 | 🎬 시연 영상 | https://www.youtube.com/watch?v=xkNmg4kmPro |
 
 ---
