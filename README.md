@@ -5,7 +5,8 @@
 # 🎥 MOVIE — 영화 리뷰 · 토너먼트 플랫폼
 
 > 내가 사랑한 영화를 리뷰하고, 최애 영화를 토너먼트로 가려보세요 🍿
-<img width="1896" height="952" alt="4 상세페이지" src="https://github.com/user-attachments/assets/c6c7c0c5-cfae-400b-a26d-fc2a82908013" />
+<img width="1894" height="953" alt="1 메인페이지" src="https://github.com/user-attachments/assets/f234c562-1ed6-4bea-bfef-226318c96f1e" />
+
 
 </div>
 
