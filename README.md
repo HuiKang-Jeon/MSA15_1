@@ -6,12 +6,6 @@
 
 > 내가 사랑한 영화를 리뷰하고, 최애 영화를 토너먼트로 가려보세요 🍿
 
-[![JSP](https://img.shields.io/badge/JSP-FF6F00?style=flat-square)](https://jakarta.ee/)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
 </div>
 
 ---
